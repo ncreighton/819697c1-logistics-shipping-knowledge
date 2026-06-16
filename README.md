@@ -1,2 +1,59 @@
-# 819697c1-logistics-shipping-knowledge
-Stop drowning in support tickets from confused customers asking 'Where’s my package?' or 'How do I return this?' — give them a centralized, self-service knowledge base built specifically for logistics and shipping queries, and watch your support load drop by 40%.  The Logistics &amp; Shipping Knowledge Base and Help Center WordPress Plugin turns your s
+=== Logistics & Shipping Knowledge Base and Help Center WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Searchable docs, categories, analytics, and feedback collection. Self-service support that reduces ticket volume by 50%.
+
+== Description ==
+
+Searchable docs, categories, analytics, and feedback collection. Self-service support that reduces ticket volume by 50%.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Logistics & Shipping Knowledge Base and Help Center WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmcN512D7Eo09a33mcZm0D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmcN512D7Eo09a33mcZm0D)
+
